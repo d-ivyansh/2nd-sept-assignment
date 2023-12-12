@@ -1,0 +1,7 @@
+HTML tags are used to define the structure of a web page. They are keywords that are enclosed in angle brackets, like this: <tag>.
+
+HTML elements are the building blocks of a web page. They are created by tags and their contents.
+For example, the <p> tag creates a paragraph element. The contents of the <p> tag would be the text of the paragraph.
+<p>
+lorem ipsum................ 
+</p>

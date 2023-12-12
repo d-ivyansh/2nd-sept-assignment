@@ -1,0 +1,2 @@
+The purpose of The comments in html is to write something for ourself i.e. an explanatory statement or the meaning of the line
+Eg:- <!-- comment --> 
